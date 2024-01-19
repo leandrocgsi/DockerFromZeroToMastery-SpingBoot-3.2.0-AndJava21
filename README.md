@@ -4,7 +4,7 @@
 ![Forks](https://img.shields.io/github/forks/leandrocgsi/DockerFromZeroToMastery-SpingBoot-3.2.0-AndJava21)
 ![Stars](https://img.shields.io/github/stars/leandrocgsi/DockerFromZeroToMastery-SpingBoot-3.2.0-AndJava21)
 ![Last Commit](https://img.shields.io/github/last-commit/leandrocgsi/DockerFromZeroToMastery-SpingBoot-3.2.0-AndJava21)
-[![Docker Hub Repo](https://img.shields.io/docker/pulls/leandrocgsi/docker-from-zero-to-mastery-java.svg)](https://hub.docker.com/repository/docker/leandrocgsi/DockerFromZeroToMastery-SpingBoot-3.2.0-AndJava21)
+[![Docker Hub Repo](https://img.shields.io/docker/pulls/leandrocgsi/docker-from-zero-to-mastery-java.svg)](https://hub.docker.com/repository/docker/leandrocgsi/docker-from-zero-to-mastery-java)
 [![Continuous Integration with Github Actions](https://github.com/leandrocgsi/DockerFromZeroToMastery-SpingBoot-3.2.0-AndJava21/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/leandrocgsi/DockerFromZeroToMastery-SpingBoot-3.2.0-AndJava21/actions/workflows/continuous-integration.yml)
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/docker_do_zero_a_maestria_conteinerizacao_desmistificada.png?raw=true "Docker do Zero à Maestria - Contêinerização Desmistificada")](https://www.udemy.com/course/docker-do-zero-a-maestria-conteinerizacao-desmistificada/?couponCode=GTHB_FLASH_SALE2021)
@@ -14,7 +14,6 @@
 [![e-Book Grátis](https://github.com/leandrocgsi/DockerFromZeroToMastery/blob/master/Images/ebook.png?raw=true)](https://pub.erudio.com.br/guia-docker)
 
 ## Cursos Relacionados
-
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/docker_para_amazon_aws_implante_apps_java_e_dot_net_com_travis_ci.png?raw=true "Docker para Amazon AWS Implante Apps Java e .NET com Travis CI")](https://www.udemy.com/course/docker-para-amazon-aws-implante-aplicacoes-java-e-net/?couponCode=GTHB_FLASH_SALE2021)
 
