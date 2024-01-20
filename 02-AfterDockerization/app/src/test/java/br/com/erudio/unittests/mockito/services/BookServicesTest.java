@@ -4,6 +4,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 import static org.junit.jupiter.api.Assertions.assertTrue;
+import static org.mockito.ArgumentMatchers.any;
 import static org.mockito.Mockito.when;
 
 import java.util.Optional;
@@ -64,16 +65,14 @@ class BookServicesTest {
 	
 	@Test
 	void testCreate() {
-		Book entity = input.mockEntity(1); 
-		entity.setId(1L);
-		
-		Book persisted = entity;
+
+		Book persisted = input.mockEntity(1);
 		persisted.setId(1L);
 		
 		BookVO vo = input.mockVO(1);
 		vo.setKey(1L);
 		
-		when(repository.save(entity)).thenReturn(persisted);
+		when(repository.save(any(Book.class))).thenReturn(persisted);
 		
 		var result = service.create(vo);
 		
