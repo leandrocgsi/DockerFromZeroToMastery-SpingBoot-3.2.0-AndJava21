@@ -67,6 +67,6 @@
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/docker_to_amazon_aws_deploy_apps_java_and_dot_net_with_travis_ci.png?raw=true "Docker to Amazon AWS Deploy Java & .NET Apps with Travis CI")](https://www.udemy.com/course/docker-to-amazon-aws-deploy-java-net-apps-with-travis-ci/?couponCode=GTHB_FLASH_SALE2021)
 
-Este é um dos repositórios dos codigos fonte desenvolvidos no curso [Docker para Amazon AWS Implante Apps Java e .NET com Travis CI](https://www.udemy.com/course/docker-para-amazon-aws-implante-aplicacoes-java-e-net/?couponCode=GTHB_FLASH_SALE2021)
+Este é um dos repositórios dos codigos fonte desenvolvidos no curso [Docker do 0 à Maestria: Contêineres Desmistificados + 3 BÔNUS](https://www.udemy.com/course/docker-do-zero-a-maestria-conteinerizacao-desmistificada/?couponCode=GTHB_FLASH_SALE2021)
 
-[<img src="https://github.com/leandrocgsi/DockerToAWSWithDotNet/blob/master/Images/udemy.png?raw=true">](https://www.udemy.com/course/docker-para-amazon-aws-implante-aplicacoes-java-e-net/?couponCode=GTHB_FLASH_SALE2021)
+[<img src="https://github.com/leandrocgsi/DockerFromZeroToMastery/blob/master/Images/udemy.png?raw=true">](https://www.udemy.com/course/docker-do-zero-a-maestria-conteinerizacao-desmistificada/?couponCode=GTHB_FLASH_SALE2021)
